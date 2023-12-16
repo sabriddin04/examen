@@ -1,0 +1,14 @@
+C:\Users\Hp\Desktop\exam\TASK9\bin\Debug\net8.0\TASK9.exe
+C:\Users\Hp\Desktop\exam\TASK9\bin\Debug\net8.0\TASK9.deps.json
+C:\Users\Hp\Desktop\exam\TASK9\bin\Debug\net8.0\TASK9.runtimeconfig.json
+C:\Users\Hp\Desktop\exam\TASK9\bin\Debug\net8.0\TASK9.dll
+C:\Users\Hp\Desktop\exam\TASK9\bin\Debug\net8.0\TASK9.pdb
+C:\Users\Hp\Desktop\exam\TASK9\obj\Debug\net8.0\TASK9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\exam\TASK9\obj\Debug\net8.0\TASK9.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\exam\TASK9\obj\Debug\net8.0\TASK9.AssemblyInfo.cs
+C:\Users\Hp\Desktop\exam\TASK9\obj\Debug\net8.0\TASK9.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\exam\TASK9\obj\Debug\net8.0\TASK9.dll
+C:\Users\Hp\Desktop\exam\TASK9\obj\Debug\net8.0\refint\TASK9.dll
+C:\Users\Hp\Desktop\exam\TASK9\obj\Debug\net8.0\TASK9.pdb
+C:\Users\Hp\Desktop\exam\TASK9\obj\Debug\net8.0\TASK9.genruntimeconfig.cache
+C:\Users\Hp\Desktop\exam\TASK9\obj\Debug\net8.0\ref\TASK9.dll
